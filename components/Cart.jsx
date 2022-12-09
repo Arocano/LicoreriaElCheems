@@ -85,7 +85,7 @@ import getStripe from '../lib/getStripe';
                 </div>
                 <div className='btn-container'>
                   <button type='button' className='btn' onClick={handleCheckout}>
-                    Pagar con Stripe
+                    Pagar
                   </button>
                 </div>
               </div>
