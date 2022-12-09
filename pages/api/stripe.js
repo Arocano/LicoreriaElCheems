@@ -15,7 +15,7 @@ export default async function handler(req, res) {
             {shipping_rate:'shr_1MCmiHEnMqsqo27CzS2xdfPD'}],
            line_items: req.body.map((item)=>{
                 const img = item.image[0].asset._ref;
-                const newImage=img.replace('image-','https://cdn.sanity.io/images/0dopovhy/production/').replace('-jpg','.jpg');
+                const newImage=img.replace('image-','https://cdn.sanity.io/images/0dopovhy/production/').replace('-png','.png');
                 return{
                     price_data:{
                         currency: 'usd',

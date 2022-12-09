@@ -8,6 +8,7 @@ import { useStateContext } from '../context/StateContext';
   return (
     <div className='navbar-container'>
       <p className='logo'>
+        <img src='/logo.svg' alt='logo'/>
         <Link href="/">El Cheems</Link>
       </p>
       <button type='button' className='cart-icon'
