@@ -15,7 +15,7 @@ Una lista de las tecnologias utilizadas en el proyecto:
 * [Next.JS](https://nextjs.org/): Version 12.1.0
 * [Sanity](https://www.sanity.io/): Version 3.2.0
 * [Stripe](https://stripe.com/es): Version 8.209.0
-## Installación
+## Instalación
 ***
 Para instalar la aplicación clona el repositorio y sigue el orden de los comandos que te dejo a continuación 
 ```
@@ -32,7 +32,7 @@ Ahora ya puedes iniciar la aplicación desde la carpeta raiz utilizando el coman
 ```
 $ npm run dev
 ```
-## Collaboration
+## Colaboración
 ***
 El proyecto puede ser mejorado, no dudes en colaborar con el si asi lo desesas
 ## FAQs
